@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/StarryZhang-whu/StarryZhang-whu/blob/main/header.png?raw=true)](https://github.com/StarryZhang-whu)
+
 ![](https://komarev.com/ghpvc/?username=starryzhang-whu&style=flat-square)
 # About me
 - 🏫 I'm currently an undergrad studying at Wuhan University, majoring in Software Engineering in the Computer Science department.
